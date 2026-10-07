@@ -1,0 +1,10 @@
+CAD/step-files/
+*.FCBak
+
+EDA/production/
+fabrication-toolkit-options.json
+EDA/.history/
+*.lck
+
+tex/
+!/tex/*.pdf
